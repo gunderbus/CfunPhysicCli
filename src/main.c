@@ -1,6 +1,7 @@
-#include "headers/logger.h"
+#include <stdio.h>  // For printf
+#include <string.h> // For strlen
 
-int main(void)
+int main(char *func)
 {
     return 0;
 }
